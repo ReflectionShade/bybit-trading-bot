@@ -1,0 +1,4 @@
+bybit==0.2.12
+ta==0.7.0
+requests==2.28.1
+pandas==1.5.3
